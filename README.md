@@ -5,7 +5,6 @@
     body {
       background-color: #E6E6FA;
       font-family: Arial, sans-serif;
-      max-width: 900px;
       margin: auto;
       line-height: 1.6;
     }
