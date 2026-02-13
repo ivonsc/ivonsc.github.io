@@ -38,7 +38,7 @@ MSc in Bioinformatics for Health Sciences<br>
 Barcelona, Spain
 </p>
 
-<p class="lead" text-align: "justify" >
+<p class="lead" text-align="justify" >
 
 I am a bioinformatics researcher specialized in artificial intelligence for health and clinical research.
 I currently work on translational multi-omics projects in collaboration with ISGlobal (PRBB) and Hospital Clínic de Barcelona, focusing on radiomics–transcriptomics integration in chronic and complex diseases.
