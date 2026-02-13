@@ -32,11 +32,12 @@
 
 <img src="ivon.png" alt="Ivon Sánchez Cárdenas" class="profile-pic">
 
-<p class="h1">
+<p class="display-3">
 Bioinformatics Research Scientist and Associate Professor<br>
 MSc in Bioinformatics for Health Sciences<br>
 Barcelona, Spain
 </p>
+
 <p class="lead", text-align: justify>
 
 I am a bioinformatics researcher specialized in artificial intelligence for health and clinical research.
