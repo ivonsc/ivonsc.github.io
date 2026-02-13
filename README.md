@@ -1,5 +1,5 @@
 <h1>Ivon Sánchez Cárdenas</h1>
-<img src="ivon.jpg" alt="Ivon Sánchez Cárdenas" width="200">
+<img src="ivon.png" alt="Ivon Sánchez Cárdenas" width="200">
 
 <p>
 Bioinformatics Scientist and Teaching Assistant<br>
