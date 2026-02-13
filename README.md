@@ -1,17 +1,40 @@
-<style>
-  .profile-pic {
-    width: 200px;
-    border-radius: 50%;
-    display: block;
-    margin: 20px auto;
-  }
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Ivon Sánchez Cárdenas</title>
 
-<body style="background-color:#E0FFFF;">
-</body>
-</style>
+  <style>
+    body {
+      background-color: #E0FFFF;
+      font-family: Arial, sans-serif;
+      max-width: 900px;
+      margin: auto;
+      line-height: 1.6;
+    }
+
+    .profile-pic {
+      width: 200px;
+      border-radius: 50%;
+      display: block;
+      margin: 20px auto;
+    }
+
+    h1 {
+      text-align: center;
+    }
+
+    p {
+      text-align: center;
+    }
+  </style>
+
+</head>
+
+<body>
 
 <h1>Ivon Sánchez Cárdenas</h1>
-<img src="ivon.png" alt="Ivon Sánchez Cárdenas" width="200">
+
+<img src="ivon.png" alt="Ivon Sánchez Cárdenas" class="profile-pic">
 
 <p>
 Bioinformatics Scientist and Teaching Assistant<br>
@@ -19,7 +42,6 @@ MSc Candidate in Bioinformatics for Health Sciences<br>
 Barcelona, Spain
 </p>
 
-<p>
 I am a bioinformatics researcher specialized in artificial intelligence for health and clinical research.
 I currently work on translational multi-omics projects in collaboration with ISGlobal (PRBB) and Hospital Clínic de Barcelona, focusing on radiomics–transcriptomics integration and predictive modeling in chronic and complex diseases.
 </p>
