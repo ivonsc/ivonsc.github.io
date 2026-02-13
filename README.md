@@ -44,19 +44,19 @@ I currently work on translational multi-omics projects in collaboration with ISG
 
 My academic background combines biomedical sciences and computational methods. 
 I hold a BSc in Biomedical Sciences (specialisation in Bioinformatics & AI) and hold a MSc in Bioinformatics for Health Sciences from Universitat Pompeu Fabra (UPF).
-
+<hr>
 My research interests include multi-omics data integration, clinical data modeling, explainable artificial intelligence fro clinical trials, and computational approaches for precision medicine.
 </p>
 
 <h2>Current Research Activity</h2>
 
 <ul>
-<li><strong>Transcriptomics and radiomics integration</strong> – ISGlobal & Hospital Clínic de Barcelona (2025–Present)</li>
-<li><strong>Epigenomics in women's health</strong> – Whole-genome bisulfite sequencing analysis (WGBS)</li>
+<li><strong>Transcriptomics and radiomics integration</strong> in ISGlobal & Hospital Clínic de Barcelona (2025–Present)</li>
+<li><strong>Epigenomics in women's health</strong> analysing whole-genome bisulfite sequencing analysis (WGBS)</li>
 <li>Development of predictive models integrating imaging and clinical data</li>
 </ul>
 
-<h2>Applied Artificial Intelligence</h2>
+<h2>Applied artificial intelligence (AI)</h2>
 
 <p>
 I have developed and validated machine learning and deep learning models for biological phenotype prediction. I apply robust validation strategies and explainable AI techniques (SHAP) to ensure interpretability in clinical contexts.
