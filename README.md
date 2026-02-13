@@ -32,22 +32,19 @@
 
 <img src="ivon.png" alt="Ivon Sánchez Cárdenas" class="profile-pic">
 
-<p>
+<p class="h1">
 Bioinformatics Research Scientist and Associate Professor<br>
 MSc in Bioinformatics for Health Sciences<br>
 Barcelona, Spain
 </p>
+<p class="lead", text-align: justify>
 
 I am a bioinformatics researcher specialized in artificial intelligence for health and clinical research.
 I currently work on translational multi-omics projects in collaboration with ISGlobal (PRBB) and Hospital Clínic de Barcelona, focusing on radiomics–transcriptomics integration in chronic and complex diseases.
-</p>
 
-<p>
 My academic background combines biomedical sciences and computational methods. 
 I hold a BSc in Biomedical Sciences (specialisation in Bioinformatics & AI) and hold a MSc in Bioinformatics for Health Sciences from Universitat Pompeu Fabra (UPF).
-</p>
 
-<p>
 My research interests include multi-omics data integration, clinical data modeling, explainable artificial intelligence fro clinical trials, and computational approaches for precision medicine.
 </p>
 
