@@ -60,7 +60,7 @@ My research interests include multi-omics data integration, clinical data modeli
 <li class="list-group-item">
 <h2>Applied artificial intelligence (AI)</h2>
 
-<p text-align: justify>
+<p text-align="justify">
 <ul>
 I have developed and validated machine learning and deep learning models for biological phenotype prediction. I apply robust validation strategies and explainable AI techniques (SHAP) to ensure interpretability in clinical contexts.
   </ul>
@@ -77,7 +77,7 @@ Sánchez-Cárdenas, IT., Cárdenas, MI. (2026). Predicting Obesity-Related Pheno
 <li\>
 <h2>Teaching experience</h2>
 <ul>
-<p text-align: justify>
+<p text-align="justify">
 I have experience mentoring junior students in bioinformatics and data analysis and teaching scientific subjects at secondary level.
 My teaching philosophy emphasizes computational thinking, problem-solving, and practical implementation.
   <ul>
