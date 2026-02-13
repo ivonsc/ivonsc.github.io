@@ -1,3 +1,20 @@
+<style>
+  .profile-pic {
+    width: 200px;
+    border-radius: 50%;
+    display: block;
+    margin: 20px auto;
+  }
+
+  h1 {
+    text-align: center;
+  }
+
+  p {
+    text-align: center;
+  }
+</style>
+
 <h1>Ivon Sánchez Cárdenas</h1>
 <img src="ivon.png" alt="Ivon Sánchez Cárdenas" width="200">
 
