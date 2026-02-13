@@ -48,7 +48,7 @@ I hold a BSc in Biomedical Sciences (specialisation in Bioinformatics & AI) and 
 My research interests include multi-omics data integration, clinical data modeling, explainable artificial intelligence fro clinical trials, and computational approaches for precision medicine.
 </p>
 <div>
-<ul class= "list-group list-group flush">
+<ul class= "list-group list-group-flush">
 <li class="list-group-item"> <h2 >Current Research Activity</h2>
 
 <ul>
