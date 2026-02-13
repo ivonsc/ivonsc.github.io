@@ -65,7 +65,7 @@ My research interests include multi-omics data integration, clinical data modeli
         </p>
       </li>
       <li class="list-group-item"> <h2>Selected scientific contribution</h2>  
-        <p text-align: justify>
+        <p text-align="justify">
           <ul>
         Sánchez-Cárdenas, IT., Cárdenas, MI. (2026). Predicting Obesity-Related Phenotypes from the Human Gut Microbiome Using Machine Learning. In: López Fernández, A., Rodríguez-González, A., Leirós-Rodríguez, R., Mata Miquel, C., González Suárez, V.M. (eds) Artificial Intelligence in Biomedicine. CIABiomed 2025. Lecture Notes in Computer Science(), vol 16148. Springer, Cham. <a href= "https://doi.org/10.1007/978-3-032-10661-2_39"></a>
           </ul>
