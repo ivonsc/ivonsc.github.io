@@ -1,7 +1,5 @@
-<!DOCTYPE html>
 <html>
 <head>
-  <title>Ivon Sánchez Cárdenas</title>
 
   <style>
     body {
