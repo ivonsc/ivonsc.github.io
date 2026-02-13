@@ -32,7 +32,7 @@
 
 <img src="ivon.png" alt="Ivon Sánchez Cárdenas" class="profile-pic">
 
-<p class="display-3">
+<p class="h1">
 Bioinformatics Research Scientist and Associate Professor<br>
 MSc in Bioinformatics for Health Sciences<br>
 Barcelona, Spain
