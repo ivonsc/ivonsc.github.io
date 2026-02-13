@@ -6,13 +6,8 @@
     margin: 20px auto;
   }
 
-  h1 {
-    text-align: center;
-  }
-
-  p {
-    text-align: center;
-  }
+<body style="background-color:#FF0000;">
+</body>
 </style>
 
 <h1>Ivon Sánchez Cárdenas</h1>
