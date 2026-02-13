@@ -6,7 +6,7 @@
     margin: 20px auto;
   }
 
-<body style="background-color:#FF0000;">
+<body style="background-color:#E0FFFF;">
 </body>
 </style>
 
